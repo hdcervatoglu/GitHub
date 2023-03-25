@@ -1,1 +1,2 @@
 pc1 master 1. satır eklendi
+pc1 master 2. satır eklendi
